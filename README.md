@@ -15,3 +15,5 @@ http://localhost:8080/api/getFibonacciSerie/{limitOfSerie}.
 Swagger2 is integrated with this service, allowing check API specification in easy and smart way. For access
 please follow the link http://localhost:8080/swagger-ui/.
 
+![Optional Text](swagger-ui.png)
+

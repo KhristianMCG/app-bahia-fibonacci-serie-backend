@@ -17,3 +17,11 @@ please follow the link http://localhost:8080/swagger-ui/.
 
 ![Optional Text](swagger-ui.png)
 
+### Docker deployment
+The service is encapsulated in a docker container.
+
+1. Build docker image
+    - docker build -t fibo-service-backend .
+2. Run docker image 
+    - docker run -p 8080:8080 fibo-service-backend
+
